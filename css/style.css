@@ -1,0 +1,16 @@
+body{
+    background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/211227135008-02-the-batman-trailer.jpg?q=h_1406,w_2500,x_0,y_0');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+div{
+    width: 150px;
+    height: 150px;
+    background: red;
+    float: left;
+    margin: 5px;
+    transition: 0.5s;
+}
+
